@@ -1,2 +1,4 @@
 *.csv
 other_stuffs/
+*.dot
+*.png
